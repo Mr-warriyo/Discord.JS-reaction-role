@@ -25,4 +25,4 @@ client.on('message', message => {
      })
     }
 })
-client.login('ODQ3Nzc2MTEzODQ0Mjg5NTY2.YLC_CA.k_CmsqyNsQcuRu7BF9Asd2TEeXE')
+client.login('Bot Token Here')
